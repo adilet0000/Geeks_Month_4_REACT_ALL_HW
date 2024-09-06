@@ -1,0 +1,18 @@
+.title {
+   font-size: 32px;
+   font-weight: 900;
+   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(230, 230, 230);
+   letter-spacing: 0.55vw;
+   text-shadow: 0 0 3px black;
+   margin-bottom: 50px;
+}
+
+.description {
+   font-size: 16px;
+   font-weight: 700;
+   font-family: Arial, Helvetica, sans-serif;
+   color: brown;
+   letter-spacing: 0.24vw;
+   margin-bottom: 25px;
+}
