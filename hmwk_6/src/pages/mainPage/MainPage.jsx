@@ -61,7 +61,10 @@ export const MainPage = () => {
             <button type="button" onClick={handleClearTable}>Cleare the table</button>
          </form>
 
-         {/* Таблица */}
+
+
+
+
          {users.length === 0 ? (
             <p>The table is empty</p>
          ) : (
